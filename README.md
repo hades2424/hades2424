@@ -26,7 +26,7 @@
 - 🧠 Experimentando con arquitectura limpia, APIs escalables y buenas prácticas de código
 - 🌐 También desarrollo en **JavaScript**, **TypeScript**, **HTML/CSS**, **Python** y más
 - 🎯 Me encanta resolver problemas reales con tecnología y enfoque UX
-- 📬 Puedes escribirme a: **hades.dev@gmail.com**
+- 📬 Puedes escribirme a: **chuponfs123@gmail.com**
 - 🕹️ Fan del anime, los videojuegos, y la música relajante mientras programo
 
 <!-- Stats -->
